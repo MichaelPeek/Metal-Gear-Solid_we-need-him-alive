@@ -1,0 +1,11 @@
+body{
+    background-image: url('../images/begin.jpeg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
